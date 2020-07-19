@@ -30,7 +30,7 @@
   "author": "Jeff Wooden <woodenconsulting@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "react-modal": "^3.11.1"
   },
   "devDependencies": {
